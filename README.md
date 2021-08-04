@@ -1,6 +1,11 @@
 # Agriculture-autonomous-Robot
 HCMUTE Final-year Project
 
+
+![500px-Hcmute svg](https://user-images.githubusercontent.com/74817103/128142475-49e52521-994c-4fec-9706-0da05d8bb5d7.png)
+
+
+
 This project is developed from Nox-Robot project ( see also :https://github.com/RBinsonB/Nox_robot). 
 
 Robot Motor for wheels schematic :
@@ -36,14 +41,18 @@ To run the Robot:
 To run the robotic arm:
 
   Controlling robotic arm with join-stat-publisher package
+  
 1. Typing this on RPi4 terminal:
   $ roslaunch arm_pkg check_motors.launch
 2. Connect to hardware:
   $ rosrun rosserial_python serial_node.py _port:=/dev/ttyUSB0 _baud:=115200
   Controlling robotic arm with Moveit! and kinematics
+  
 1. $ roslaunch moveit_config_pkg demo.launch
 2. $ rosrun rosserial_python serial_node.py _port:=/dev/ttyUSB0 _baud:=115200
+
 ( Note: You may need to use ttyACM)
 
+For more detail please contact : chanhhoang999x@gmail.com
 
 
