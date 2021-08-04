@@ -10,7 +10,7 @@ This project is developed from Nox-Robot project ( see also :https://github.com/
 
 Robot Motor for wheels schematic :
 
-Arduino communicate with Raspberry Pi 4 by UART method.
+Arduino communicates with Raspberry Pi 4 by UART method.
 Motor Pin (Using XY-160D motor driver) : 
 - Left motor : IN1 = 8 ; IN2 = 6 ; ENB = 10.
 - Right motor : IN1 = 11 : IN2 = 12 ; ENB = 9.
