@@ -14,7 +14,7 @@ Arduino communicates with Raspberry Pi 4 by UART method.
 
 Motor Pin (Using XY-160D motor driver) : 
 
-- Left motor : IN1 = 8 ; IN2 = 6 ; ENB = 10.
+- Left motor : IN1 = 7 ; IN2 = 6 ; ENB = 10.
 
 - Right motor : IN1 = 11 : IN2 = 12 ; ENB = 9.
 
