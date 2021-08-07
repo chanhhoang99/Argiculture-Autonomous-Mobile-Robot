@@ -8,7 +8,9 @@ HCMUTE Final-year Project
 
 This project is developed from Nox-Robot project ( see also :https://github.com/RBinsonB/Nox_robot). 
 
-Robot Motor for wheels schematic :
+Robot Motor wheels schematic :
+![image](https://user-images.githubusercontent.com/74817103/128594029-405e682f-1020-413b-acb4-c579050ced5e.png)
+
 
 Arduino communicates with Raspberry Pi 4 by UART method.
 
