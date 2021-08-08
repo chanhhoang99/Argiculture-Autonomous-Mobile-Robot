@@ -34,6 +34,14 @@ Setting up the robot:
 
 2. You can install and build the package by typing on terminal :
 
+    $ mkdir catkin_ws/src
+    
+    $ cd catkin_ws/src
+    
+    $ catkin_init_workspace
+    
+    $ git clone https://github.com/chanhhoang99/Argiculture-Autonomous-Mobile-Robot.git
+
     $ catkin_make
     
 3. Source your work:
