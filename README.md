@@ -41,6 +41,8 @@ Setting up the robot:
     $ catkin_init_workspace
     
     $ git clone https://github.com/chanhhoang99/Argiculture-Autonomous-Mobile-Robot.git
+    
+    $ cd catkin_ws
 
     $ catkin_make
     
