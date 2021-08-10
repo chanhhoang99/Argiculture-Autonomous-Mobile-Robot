@@ -12,7 +12,7 @@ Robot Motor wheels schematic :
 ![image](https://user-images.githubusercontent.com/74817103/128594029-405e682f-1020-413b-acb4-c579050ced5e.png)
 
 
-Arduino communicates with Raspberry Pi 4 by UART method.
+Arduino communicates with Raspberry Pi 4 by USB cable method.
 
 Motor Pin (Using XY-160D motor driver) : 
 
