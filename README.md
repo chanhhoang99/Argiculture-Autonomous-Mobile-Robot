@@ -78,7 +78,7 @@ To run the robotic arm:
   
   Controlling robotic arm with Moveit! and kinematics
   
-1. $ roslaunch moveit_config_pkg demo.launch
+1. $ roslaunch moveit_config demo.launch
 
 2. $ rosrun rosserial_python serial_node.py _port:=/dev/ttyUSB0 _baud:=115200
 
